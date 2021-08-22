@@ -2,7 +2,8 @@
 public class Main {
 
 	public static void main(String[] args) {
-		square();
+		//square();
+		circle();
 	}
 
 	
@@ -12,5 +13,18 @@ public class Main {
 			System.out.println("*			  *");
 		}
 		System.out.println("***************************");
+	}
+	
+	public static void circle() {
+		System.out.println("          ***");
+		System.out.println("      *          *");
+		System.out.println("    *              *");
+		System.out.println("   *                *");
+		System.out.println("  *                  *");
+		System.out.println("  *                  *");
+		System.out.println("   *                *");
+		System.out.println("    *              *");
+		System.out.println("      *          *");
+		System.out.println("          ***");
 	}
 }
