@@ -16,15 +16,14 @@ public class Main {
 	}
 	
 	public static void circle() {
-		System.out.println("          ***");
-		System.out.println("      *          *");
-		System.out.println("    *              *");
-		System.out.println("   *                *");
-		System.out.println("  *                  *");
-		System.out.println("  *                  *");
-		System.out.println("   *                *");
-		System.out.println("    *              *");
-		System.out.println("      *          *");
-		System.out.println("          ***");
+		System.out.println("       ******");
+		System.out.println("    *          *");
+		System.out.println("  *              *");
+		System.out.println(" *                *");
+		System.out.println("*                  *");
+		System.out.println(" *                *");
+		System.out.println("  *              *");
+		System.out.println("    *          *");
+		System.out.println("       ******");
 	}
 }
